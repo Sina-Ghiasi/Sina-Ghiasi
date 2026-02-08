@@ -13,5 +13,5 @@ Passionate Front-End Developer who loves working with the JavaScript ecosystem. 
 
 📫 How to reach me
 ---------
-- 📧 Email : sinasteyn@gmail.com
+- 📧 Email : sinaghiasi00@gmail.com
 - 🔗 Telegram : https://t.me/SinaGhiasi_BA
